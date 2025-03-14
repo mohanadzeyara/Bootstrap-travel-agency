@@ -1,0 +1,26 @@
+.new-width {
+    margin-top: 5%;
+}
+.overlay-edit {
+    width: 90%; margin-left: 4%;
+    margin-top: 2%;
+}
+
+
+.Tours {
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+
+.cards-edit {
+    width: 80%;
+    margin-left: 4%;
+    margin-top: 2%;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+}
+.icon-edit { 
+    margin-left: 47%; margin-bottom: 2%
+}
