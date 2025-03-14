@@ -1,11 +1,10 @@
 .new-width {
     margin-top: 5%;
 }
-.overlay-edit {
-    width: 90%; margin-left: 4%;
-    margin-top: 2%;
+.hero-text {
+    text-align: center;
+    margin-top: 30%;
 }
-
 
 .Tours {
     display: flex;
